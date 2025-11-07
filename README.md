@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtSaghatelianWB
-- 👀 I’m interested in backpacking
+- 👀 I am here to have fun
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on undecided
 - 📫 How to reach me ...
